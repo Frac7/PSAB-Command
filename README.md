@@ -1,6 +1,6 @@
 # PSAB-Command
 
-Command for ownership expiration use case.
+Command for ownership expiration use case and for retrieving and comparing hashes (documents).
 
 ## Getting started
 `yarn install`
