@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "env-cmd -f .env ./cli.js"
+    "ownership-expiry": "env-cmd -f .env ./ownership-expiry.js",
+    "hash-compare": "env-cmd -f .env ./hash-compare.js"
   },
   "keywords": [],
   "author": "",
@@ -15,8 +16,5 @@
   },
   "devDependencies": {
     "env-cmd": "^10.1.0"
-  },
-  "bin": {
-    "ownership-expiration": "./cli.js"
   }
 }

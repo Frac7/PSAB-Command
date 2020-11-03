@@ -5,4 +5,6 @@ Command for ownership expiration use case.
 ## Getting started
 `yarn install`
 
-`yarn start ${portion_ID}`
+## Available commands
+- `yarn ownership-expiry ${portion_ID}`
+- `yarn hash-compare ${portion_ID}`
