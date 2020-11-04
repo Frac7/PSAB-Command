@@ -7,4 +7,5 @@ Command for ownership expiration use case and for retrieving and comparing hashe
 
 ## Available commands
 - `yarn ownership-expiry ${portion_ID}`
-- `yarn hash-compare ${portion_ID}`
+- `yarn hash-compare Land ${land_ID}`
+- `yarn hash-compare Portion ${portion_ID}`
